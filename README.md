@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL, NoSql, Html, Css
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects with SQL
-- 📫 How to reach me ...
+- 📫 Açailândia - MA
 
 <!---
 Welielton/Welielton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
