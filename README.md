@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Welielton
 - 👀 I’m interested in SQL, NoSql, Html, Css
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and Backend Java
 - 💞️ I’m looking to collaborate on projects with SQL
 - 📫 Açailândia - MA
 
